@@ -1,3 +1,3 @@
 # my-Pokedex
 
-This is a pokedex with every pokemon's information.
+This is a Pokedex with every pokemon's information.
